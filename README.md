@@ -15,10 +15,10 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
 ✔ Callme: ***Isa*** or ***Isaili*** 😊 <br>
-✔I am currently in the seventh semester of the **Software Engineering**  degree<br>
+✔ I am currently in the seventh semester of the **Software Engineering**  degree<br>
 ✔ In my free time I like to design  **web sites**😁<br>
-✔ Estoy aprendiendo más sobre **PHP - microservices-based architecture, and machine learning**<br>
-✔I usually go out to take  **pictures as hobbies or side projects**📷⛺<br><br><br>
+✔ I'm learning more about **PHP - microservices-based architecture, and machine learning**<br>
+✔ I usually go out to take  **pictures as hobbies or side projects**📷⛺<br><br><br>
 
  
 
