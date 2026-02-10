@@ -1,5 +1,5 @@
 
-<img alt="Night Coding" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1jz1X5n0oz5xcUM_702fgjhQ2Ml8VyHhkAjOiPXNamcW93hOYmeuJfFux&s=10 " width='100%' align="left" height=300;/><h2 align="left"></h2>
+<img alt="Night Coding" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1jz1X5n0oz5xcUM_702fgjhQ2Ml8VyHhkAjOiPXNamcW93hOYmeuJfFux&s=10 " width='100%' align="left" height=350;/><h2 align="left"></h2>
 
 <p align="center">
   <a href="https://github.com/isaili/readme-typing-svg">
