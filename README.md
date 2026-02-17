@@ -16,6 +16,8 @@
 ✔ I am currently in the tenth semester of the **Software Engineering**  degree<br>
 ✔ In my free time I like to design  **web sites**😁<br>
 ✔ I'm learning more about **Artificial Intelligence algorithms, and machine learning**<br>
+✔I currently work with a **business group**, where I continuously develop my skills and acquire new knowledge. <br>
+
 ✔ I usually go out to take  **pictures as hobbies or side projects**📷⛺<br><br><br>
 
  
