@@ -12,7 +12,7 @@
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-✔ Callme: ***Isa*** or ***Isaili*** 😊 <br>
+✔ Callme: ***Isai*** or ***Isaili*** 😊 <br>
 ✔ I am currently in the tenth semester of the **Software Engineering**  degree<br>
 ✔ In my free time I like to design  **web sites**😁<br>
 ✔ I'm learning more about **Artificial Intelligence algorithms, and machine learning**<br>
